@@ -36,4 +36,8 @@
     text-decoration: none;
     color: white;
   }
+
+  #background-audio {
+    align-self: center;
+  }
   
